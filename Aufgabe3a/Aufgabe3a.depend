@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1584209020 source:c:\hs\swp\swp_projekte\aufgabe3a\main.cpp
+	<iostream>
+
+1696780594 source:c:\hs\swp\swp_projekte\aufgabe3\ast.cpp
+	<iostream>
+	<string>
+	"ast.h"
+
+1696780592 c:\hs\swp\swp_projekte\aufgabe3\ast.h
+	<iostream>
+	<string>
+	<memory>
+
+1696780596 source:c:\hs\swp\swp_projekte\aufgabe3\parser.cpp
+	"utility.h"
+	"ast.h"
+	"tokenizer.h"
+	"parser.h"
+
+1696780604 c:\hs\swp\swp_projekte\aufgabe3\utility.h
+
+1696780910 c:\hs\swp\swp_projekte\aufgabe3\tokenizer.h
+	<iostream>
+	<string>
+	<vector>
+
+1696780596 c:\hs\swp\swp_projekte\aufgabe3\parser.h
+	"utility.h"
+	"ast.h"
+	"tokenizer.h"
+
+1696780604 source:c:\hs\swp\swp_projekte\aufgabe3\tokenizer.cpp
+	<iostream>
+	<string>
+	<vector>
+	"tokenizer.h"
+
+1696944892 source:c:\hs\swp\swp_projekte\aufgabe3\testparser.cpp
+	<iostream>
+	<string>
+	"parser.h"
+	"ast.h"
+
